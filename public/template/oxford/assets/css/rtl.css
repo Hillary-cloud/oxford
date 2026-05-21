@@ -1,0 +1,302 @@
+.rtl {
+    direction: rtl;
+
+    .gt-hero-1 .gt-hero-line-shape {
+        right: initial;
+        left: 12%;
+    }
+
+    .gt-about-wrapper .gt-about-content .gt-skill-feature-items .gt-skill-feature .gt-progress-value {
+        right: initial;
+        left: -8px;
+    }
+
+    .gt-purposes-wrapper .gt-purposes-content {
+        margin-right: 60px;
+        margin: 0;
+    }
+
+    .gt-purposes-section .gt-bike-shape {
+        left: 0;
+        right: initial;
+    }
+
+    .gt-cta-event-wrapper .gt-bg-shape {
+       right: initial;
+       left: 0;
+       transform: rotate(-180deg);
+    }
+
+    .gt-purposes-section .gt-bg-shape-2 {
+       display: none;
+    }
+
+    .header-main .main-menu ul li .submenu li a::before {
+        left: initial;
+        right: 8px;
+    }
+
+    .header-main .main-menu ul li .submenu li a:hover {
+        margin-left: 0;
+        margin-right: 15px;
+    }
+
+    .header-main .main-menu ul li .submenu li :hover {
+        .gt-theme-btn {
+            margin-right: 0;
+        }
+    }
+
+    .gt-news-card-items .gt-news-content .gt-date-list li i {
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .event-ride-time-wrapper .gt-left-shape {
+        left: initial;
+        right: -50px;
+        transform: rotate(180deg);
+    }
+
+    .gt-about-wrapper-2 .gt-about-content {
+        margin-right: 50px;
+        margin-left: 0;
+    }
+
+    .gt-funfact-wrapper .gt-funfact-content .gt-section-title {
+        margin-left: 0;
+        margin-right: 30px;
+    }
+
+    .gt-news-left-items .gt-news-content .gt-date-list li i {
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .gt-news-right-items .gt-news-box-items .gt-news-content .gt-date-list li i {
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .gt-footer-section .gt-sub-title {
+      left: initial !important;
+      right: -8% !important;
+    }
+
+    .gt-testi-main-box {
+       margin-left: 0;
+    }
+
+    .gt-purposes-section::before {
+        left: initial;
+        right: 30%;
+    }
+
+    .gt-team-details-wrapper .gt-details-content {
+        margin-right: 40px;
+        margin-left: 0;
+    }
+
+    .gt-team-details-wrapper .gt-details-content .gt-list li i {
+        margin-right: 0;
+        margin-left: 5px;
+    }
+
+    .header-main .main-menu ul li a i {
+        margin-left: 0;
+        transform: rotate(180deg);
+    }
+
+    .gt-event-wrapper .gt-event-content .gt-list li i {
+       margin-right: 0;
+       margin-left: 5px;
+    }
+
+    .gt-main-sideber .gt-single-sideber-widget .gt-search-widget form button {
+        right: initial;
+        left: 0;
+    }
+
+    .gt-about-wrapper .gt-about-image-items .gt-gear-shape .pointer {
+        left: -76px;
+    }
+    
+    .gt-about-wrapper .gt-about-image-items .gt-gear-shape {
+        left: 40%;
+    }
+
+    .header-section-2.header-section-4 .header-4-items .main-logo .logo-bg {
+        left: initial;
+        right: 0;
+        transform: rotate(180deg);
+    }
+
+    .header-section-2.header-section-4 .header-4-items .main-logo .main-logo-4 {
+        right: 100px;
+        left: initial;
+    }
+
+    .header-section-2.header-section-4 .header-main-items-right {
+        margin-left: 0;
+        margin-right: 130px;
+    }
+
+    .header-section-2 .header-top-wrapper-2 .top-left li i {
+        margin-right: 0;
+        margin-left: 8px;
+    }
+
+    .search-popup__form .search-btn {
+        right: initial;
+        left: 0;
+    }
+
+    .search-popup__form input[type=search], .search-popup__form input[type=text] {
+        padding-left: 0;
+        padding-right: 20px;
+    }
+
+    @media screen and (max-width: 1199px) {
+         .header-section-2.header-section-4 .header-main-items-right {
+            margin-right: 0;
+        }
+    }
+
+    .gt-service-box-items-4 .gt-icon {
+        right: initial;
+        left: 75px;
+    }
+
+    .gt-pricing-box-items .gt-price-tag {
+       left: -40px;
+       right: initial;
+       transform: rotate(-40.012deg);
+    }
+
+    .gt-footer-newsletter .gt-newsletter-content .form-clt .gt-theme-btn {
+        right: initial;
+        left: 4px;
+    }
+
+    .gt-faq-wrapper .faq-items .accordion .accordion-button::before {
+        left: 22px;
+        right: initial;
+    }
+
+    .gt-hero-4 .gt-hero-image {
+        margin-left: 0;
+        margin-right: -220px;
+    }
+
+    .gt-hero-4 .gt-hero-content {
+        margin-left: 0;
+        margin-right: 50px;
+    }
+
+    .gt-about-wrapper-5 .gt-about-content {
+        margin-left: 0;
+        margin-right: 50px;
+    }
+
+    .gt-hero-5 .swiper{
+        direction: rtl;
+    }
+
+    @media screen and (max-width: 1199px) {
+        .gt-about-wrapper-5 .gt-about-content {
+            margin-left: 0;
+            margin-right: 0;
+        }
+    }
+
+    .gt-hero-5 .gt-hero-content .gt-sub-title img {
+        margin-left: 8px;
+        margin-right: 0;
+    }
+
+    .gt-hero-5 .social-text {
+       right: inherit;
+       left: 0;
+    }
+    
+    .gt-hero-5 .array-button {
+        left: 0;
+        right: initial;
+    }
+
+    .gt-hero-5 .bg-shape {
+       left: initial;
+       right: 0;
+       transform: rotate(180deg);
+    }
+
+    .gt-about-wrapper-5 .gt-about-image .gt-about-image-2 {
+       right: initial;
+       left: -34%;
+    }
+
+    @media screen and (max-width: 1399px) {
+        .gt-about-wrapper-5 .gt-about-image .gt-about-image-2 {
+            right: initial;
+            left: -16%;
+        }
+
+        .gt-about-wrapper-5 .gt-about-image .counter-box {
+            right: initial;
+            left: -75px !important;
+        }
+    }
+
+    .gt-team-image-4.style-2 .gt-team-content {
+        right: initial;
+        left: -130px;
+        margin-left: 0;
+    }
+
+    .gt-team-image-4.style-2:hover .gt-team-content {
+        right: initial;
+        left: 0;
+    }
+
+    @media screen and (max-width: 1199px) {
+        .gt-about-wrapper-5 .gt-about-image .gt-about-image-2 {
+            right: initial;
+            top: initial;
+            bottom: 0;
+            left: 0;
+        }
+    }
+
+    .gt-about-wrapper-5 .gt-about-image .counter-box {
+       right: initial;
+       left: -160px;
+    }
+
+    .gt-about-wrapper-5 .gt-about-content .gt-list-area ul li::before {
+        right: 60px;
+        top: 18px;
+        left: 0px;
+    }
+
+    .gt-team-image-4.style-2 .gt-social-icon {
+       right: 24px;
+       left: initial;
+    }
+
+    .gt-team-image-4.style-2 .arrow-icon {
+        right: 24px;
+        left: initial;
+    }
+
+    .gt-feature-section-5 .gt-bg-shape {
+        right: initial;
+        left: 0;
+        transform: rotate(180deg);
+         width: 1240px;
+    }
+}
+
+
+.rtl .swiper {
+    direction: ltr;
+}

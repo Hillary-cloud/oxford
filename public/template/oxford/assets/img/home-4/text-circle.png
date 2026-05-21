@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+  <style>
+    .circle-text {
+      font-family: 'Outfit', 'Inter', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      fill: #ffffff;
+      letter-spacing: 2px;
+    }
+  </style>
+  <path id="textCirclePath" d="M 75,75 m -55,0 a 55,55 0 1,1 110,0 a 55,55 0 1,1 -110,0" fill="none" />
+  <text class="circle-text">
+    <textPath href="#textCirclePath" startOffset="0%">OXFORD SCHOOL • ESTABLISHED 1985 • EXCELLENCE • </textPath>
+  </text>
+</svg>

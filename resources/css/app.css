@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-primary: #6366f1;
+    /* Indigo 500 */
+    --color-secondary: #ec4899;
+    /* Pink 500 */
+    --color-button: #4f46e5;
+    /* Indigo 600 */
+    --color-background: #e5e7eb;
+    /* Gray 200 (Ash) */
+    --color-sidebar: #1e293b;
+    /* Slate 800 */
+    --color-text: #0f172a;
+    /* Slate 900 */
+}
+
+/* Dark Mode Defaults override */
+.dark {
+    --color-background: #0f172a;
+    /* Slate 900 */
+    --color-text: #f8fafc;
+    /* Slate 50 */
+}
+
+/* Custom Scrollbar Hide Utility */
+@layer utilities {
+    .scrollbar-hide::-webkit-scrollbar {
+        display: none;
+    }
+
+    .scrollbar-hide {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+}
