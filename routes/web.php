@@ -27,10 +27,6 @@ use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
 
-Route::get('/test-key', function () {
-    return env('APP_KEY');
-}); 
-
 // Public Routes
 Route::get('/', function () {
     return view('public.home');
